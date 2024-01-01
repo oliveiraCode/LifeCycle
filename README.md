@@ -66,4 +66,4 @@ A simple view structure that:
 * Swift 5.9+
 
 ## Contributing
-Feel free to submit issues, fork the repository, and create pull requests for any improvements.
+Feel free to submit issues, fork the repository, and create pull requests for any improvements.2024-01-01T09:18:00-0300 feat(notifications): initial implementation
