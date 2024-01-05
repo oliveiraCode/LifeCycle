@@ -69,3 +69,4 @@ A simple view structure that:
 Feel free to submit issues, fork the repository, and create pull requests for any improvements.2024-01-01T09:18:00-0300 feat(notifications): initial implementation
 2024-01-01T13:54:00-0300 style(notifications): improve code formatting and structure
 2024-01-05T09:34:00-0300 feat(dashboard): initial implementation
+2024-01-05T15:05:00-0300 style(dashboard): improve code formatting and structure
