@@ -80,3 +80,4 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 2024-02-06T12:17:00-0300 test(settings): add unit tests
 2024-02-06T14:23:00-0300 docs(settings): update documentation
 2024-02-14T16:08:00-0300 feat(settings): initial implementation
+2024-02-14T11:00:00-0300 style(settings): improve code formatting and structure
