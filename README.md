@@ -83,3 +83,4 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 2024-02-14T11:00:00-0300 style(settings): improve code formatting and structure
 2024-02-14T14:34:00-0300 fix(settings): resolve review feedback
 2024-02-14T10:26:00-0300 test(settings): add unit tests
+2024-02-14T11:39:00-0300 docs(settings): update documentation
