@@ -103,3 +103,4 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 2024-03-20T11:23:00-0300 feat(notifications): initial implementation
 2024-03-20T12:36:00-0300 style(notifications): improve code formatting and structure
 2024-03-20T10:13:00-0300 fix(notifications): resolve review feedback
+2024-04-04T13:21:00-0300 feat(dashboard): initial implementation
