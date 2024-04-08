@@ -108,3 +108,4 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 2024-04-04T11:27:00-0300 fix(dashboard): resolve review feedback
 2024-04-04T13:34:00-0300 test(dashboard): add unit tests
 2024-04-08T09:42:00-0300 feat(settings): initial implementation
+2024-04-08T11:05:00-0300 style(settings): improve code formatting and structure
