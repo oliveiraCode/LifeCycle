@@ -113,3 +113,4 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 2024-04-08T11:42:00-0300 test(settings): add unit tests
 2024-04-17T12:42:00-0300 feat(notifications): initial implementation
 2024-04-17T17:38:00-0300 style(notifications): improve code formatting and structure
+2024-04-17T13:38:00-0300 fix(notifications): resolve review feedback
