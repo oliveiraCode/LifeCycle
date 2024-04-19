@@ -119,3 +119,4 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 2024-04-19T14:28:00-0300 style(settings): improve code formatting and structure
 2024-04-19T16:50:00-0300 fix(settings): resolve review feedback
 2024-04-19T13:50:00-0300 test(settings): add unit tests
+2024-04-19T10:22:00-0300 docs(settings): update documentation
