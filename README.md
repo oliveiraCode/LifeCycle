@@ -146,3 +146,4 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 2024-05-31T16:41:00-0300 feat(notifications): initial implementation
 2024-05-31T10:08:00-0300 style(notifications): improve code formatting and structure
 2024-05-31T16:35:00-0300 fix(notifications): resolve review feedback
+2024-05-31T09:32:00-0300 test(notifications): add unit tests
