@@ -150,3 +150,4 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 2024-05-31T17:05:00-0300 docs(notifications): update documentation
 2024-06-06T10:36:00-0300 feat(profile): initial implementation
 2024-06-06T16:55:00-0300 style(profile): improve code formatting and structure
+2024-06-06T12:17:00-0300 fix(profile): resolve review feedback
