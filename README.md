@@ -153,3 +153,4 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 2024-06-06T12:17:00-0300 fix(profile): resolve review feedback
 2024-06-06T16:24:00-0300 test(profile): add unit tests
 2024-06-06T12:33:00-0300 docs(profile): update documentation
+2024-06-07T17:21:00-0300 feat(profile): initial implementation
