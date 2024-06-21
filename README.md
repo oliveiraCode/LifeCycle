@@ -160,3 +160,4 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 2024-06-07T10:20:00-0300 docs(profile): update documentation
 2024-06-09T12:58:00-0300 feat(notifications): initial implementation
 2024-06-09T11:03:00-0300 style(notifications): improve code formatting and structure
+2024-06-21T17:19:00-0300 feat(dashboard): initial implementation
