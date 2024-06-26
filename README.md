@@ -163,3 +163,4 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 2024-06-21T17:19:00-0300 feat(dashboard): initial implementation
 2024-06-21T12:32:00-0300 style(dashboard): improve code formatting and structure
 2024-06-26T10:56:00-0300 feat(analytics): initial implementation
+2024-06-26T16:30:00-0300 style(analytics): improve code formatting and structure
