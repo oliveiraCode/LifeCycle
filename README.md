@@ -173,3 +173,4 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 2024-07-18T11:02:00-0300 feat(settings): initial implementation
 2024-07-18T17:38:00-0300 style(settings): improve code formatting and structure
 2024-07-18T15:20:00-0300 fix(settings): resolve review feedback
+2024-07-22T14:43:00-0300 feat(notifications): initial implementation
