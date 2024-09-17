@@ -196,3 +196,4 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 2024-09-09T11:28:00-0300 style(dashboard): improve code formatting and structure
 2024-09-17T09:50:00-0300 feat(notifications): initial implementation
 2024-09-17T14:55:00-0300 style(notifications): improve code formatting and structure
+2024-09-17T09:28:00-0300 fix(notifications): resolve review feedback
