@@ -202,3 +202,4 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 2024-09-23T10:34:00-0300 style(dashboard): improve code formatting and structure
 2024-09-23T09:19:00-0300 fix(dashboard): resolve review feedback
 2024-09-23T15:48:00-0300 test(dashboard): add unit tests
+2024-09-23T10:07:00-0300 docs(dashboard): update documentation
