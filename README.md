@@ -217,3 +217,4 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 2024-10-07T09:48:00-0300 test(notifications): add unit tests
 2024-10-07T09:46:00-0300 docs(notifications): update documentation
 2024-10-14T15:40:00-0300 feat(settings): initial implementation
+2024-10-14T11:37:00-0300 style(settings): improve code formatting and structure
